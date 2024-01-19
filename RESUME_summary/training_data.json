@@ -1,0 +1,346 @@
+[
+    {
+        "input_text": "PHP developer ",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "7 years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Brash General",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "Ismer Corp",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "quality assurance manager",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "12 years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Jabbr Ltd.",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "Opendoor Solutions",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "IT process improvement measures",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "8 years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "",
+        "category": ""
+    },
+    {
+        "input_text": " 3+",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "large cloud services agency",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "IT technician",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "Lansing",
+        "category": "Applied for"
+    },
+    {
+        "input_text": " 4+",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "global technology firm",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "IT consultant",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "Aditya Birla  Group",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "5+",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "XYZ Global",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "IT Specialist ",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": " ABC Corp ",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "5 months",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "XYZ Global",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "database administration",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "Acme Inc",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "7 months",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "IndyTechs",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "Java solutions",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "ByteSyzed",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "10+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Silicon Valley-based ecommerce firm",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": " IT program manager",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": " Ellipsum",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "5+ years ",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": " Oracle",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": " IT program manager",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": " Ellanor",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "5+ years ",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Flexor, Inc",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "full stack web developer",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "Webby",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "10 months",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Equip Corp",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "web developer",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": " 7 years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "CodeNode",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "AngularJS",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "CodeBug",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "Litman Analytics",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "DevOps engineer",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "Subwhite Corp",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "web designer",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "6+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Dujo International",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "web designer",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "6+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Dujo International",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "Amphimia Global",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "test engineer ",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "6 years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "CodeSave",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "ETL tester",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "6+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Drip Technologies",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "LundGeek",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "cyber security analyst",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "3+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "government security software contractor",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "marketer manager",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "5+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "LinkedIn",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": " Human Resources Manager",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "7+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "XYZ Office",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "listing programmer",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "3+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Takeda Pharmaceuticals",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "Piper Companies\u2019",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "digital marketing",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "6+ years",
+        "category": "Years of Experience"
+    },
+    {
+        "input_text": "Walmart",
+        "category": "Previous Company"
+    },
+    {
+        "input_text": "Nestl\u00e9",
+        "category": "Applied for"
+    },
+    {
+        "input_text": "operational efficiency",
+        "category": "Field of Expertise"
+    },
+    {
+        "input_text": "10+ years",
+        "category": "Years of Experience"
+    }
+]
